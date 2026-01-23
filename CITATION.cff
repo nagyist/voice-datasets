@@ -2,17 +2,17 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: Nabu Casa Voice
+title: Open Home Fodunation Voice
 message: >-
   If you use this dataset, please cite it using the metadata
   from this file.
 type: dataset
 authors:
-  - email: voice@nabucasa.com
-    given-names: Nabu
-    family-names: Casa
-repository-code: 'https://github.com/NabuCasa/voice-datasets'
-url: 'https://www.nabucasa.com/'
+  - email: voice@openhomefoundation.org
+    given-names: Open Home
+    family-names: Foundation
+repository-code: 'https://github.com/OHF-Voice/voice-datasets'
+url: 'https://www.openhomefoundation.org/'
 abstract: Datasets for Home Assistant's Year of Voice 2023
 keywords:
   - home-assistant
